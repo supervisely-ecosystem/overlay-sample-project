@@ -8,6 +8,7 @@
   <a href="#overview">Overview</a> •
   <a href="#what-is-dapi-data">What is DAPI data?</a> •
   <a href="#how-this-interface-helps-users">How this interface helps users</a> •
+  <a href="#interface-controls">Interface controls</a> •
   <a href="#download">Download</a>
 </p>
 
@@ -21,6 +22,8 @@
 ## Overview
 
 This is a DAPI microscope images overlay interface project sample consisting of base images and linked overlay layers with adjustable opacity. The project allows users to view and adjust the opacity of overlay layers on top of base images, which is particularly useful for analyzing microscope images.
+
+<img src="https://github.com/supervisely-ecosystem/overlay-sample-project/releases/download/v1.0.0/sshot.png" />
 
 ## What is DAPI data?
 
@@ -40,6 +43,17 @@ This interface helps users work with DAPI data faster and more clearly by provid
 - adjustable overlay opacity to inspect weak or partially overlapping structures,
 - a simple, focused workspace for quality control and interpretation of microscopy results.
 
+## Interface controls
+
+The overlay panel includes the following controls:
+
+- **Opacity** slider — changes overlay transparency for clearer comparison with the base image.
+- **Scale mode** dropdown — selects how the overlay is fitted to the viewer area.
+- **Preserve aspect ratio** toggle — keeps the original image proportions during scaling.
+- **Overlay layer preview/selector** — shows the active overlay and allows quick switching between linked overlays.
+
+<img src="https://github.com/supervisely-ecosystem/overlay-sample-project/releases/download/v1.0.0/LI.gif" />
+
 ## Download
 
-This project sample in Supervisely format (88.6 MB): [Download ZIP archive](https://github.com/supervisely-ecosystem/multiview-video-sample-annotated/releases/download/v1.0.1/project.zip)
+This project sample in Supervisely format (88.6 MB): [Download ZIP archive](https://github.com/supervisely-ecosystem/overlay-sample-project/releases/download/v1.0.1/project.zip)
