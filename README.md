@@ -56,4 +56,4 @@ The overlay panel includes the following controls:
 
 ## Download
 
-This project sample in Supervisely format (88.6 MB): [Download ZIP archive](https://github.com/supervisely-ecosystem/overlay-sample-project/releases/download/v1.0.1/project.zip)
+This project sample in Supervisely format (140 MB): [Download ZIP archive](https://github.com/supervisely-ecosystem/overlay-sample-project/releases/download/v1.0.1/project.zip)
